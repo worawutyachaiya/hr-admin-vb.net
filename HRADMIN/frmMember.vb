@@ -74,13 +74,20 @@ Public Class frmMember
     End Function
 
     Private Function IsMemberAssignmentSaved(checkConnection As MySqlConnection, tableName As String, employeeId As String, dept As String, section As String) As Boolean
-        Using command As New MySqlCommand("SELECT empDept, empSection FROM " & tableName & " WHERE empCode = @empCode LIMIT 1", checkConnection)
+        ' Compare Unicode values on the server. The legacy driver cannot decode utf8mb3 metadata.
+        ' Return only the ASCII count as latin1, without changing the stored text or connection charset.
+        Dim query As String = "SELECT CAST(COUNT(*) AS CHAR CHARACTER SET latin1) FROM " & tableName & _
+            " WHERE empCode = @empCode" & _
+            " AND LOWER(TRIM(COALESCE(empDept, ''))) = LOWER(TRIM(@empDept))" & _
+            " AND LOWER(TRIM(COALESCE(empSection, ''))) = LOWER(TRIM(@empSection))"
+
+        Using command As New MySqlCommand(query, checkConnection)
             command.Parameters.AddWithValue("@empCode", employeeId)
-            Using reader = command.ExecuteReader()
-                If Not reader.Read() Then Return False
-                Return String.Compare(Trim(Convert.ToString(reader("empDept"))), Trim(dept), True) = 0 AndAlso _
-                    String.Compare(Trim(Convert.ToString(reader("empSection"))), Trim(section), True) = 0
-            End Using
+            command.Parameters.AddWithValue("@empDept", dept)
+            command.Parameters.AddWithValue("@empSection", section)
+            Dim matchingCount As Object = command.ExecuteScalar()
+            If matchingCount Is Nothing OrElse matchingCount Is DBNull.Value Then Return False
+            Return Convert.ToInt32(matchingCount) = 1
         End Using
     End Function
 
