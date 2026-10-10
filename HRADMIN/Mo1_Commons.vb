@@ -33,6 +33,10 @@ Module Mo1_Commons
     Public Const url_security_center_sync_mfg_group_ As String = "http://localhost:7010/api/security-center/user-security-group/sync-mfg-members"
     Public Const url_security_center_sync_mfg_group As String = "http://192.168.14.235:7010/api/security-center/user-security-group/sync-mfg-members"
 
+    Public Const EngineerUserGroupId As Integer = 123
+    Public Const url_security_center_sync_engineer_group_ As String = "http://localhost:7010/api/security-center/user-security-group/sync-engineer-members"
+    Public Const url_security_center_sync_engineer_group As String = "http://192.168.14.235:7010/api/security-center/user-security-group/sync-engineer-members"
+
     Public FilesNameAttachment As String
     Public CurrentUserId As String = ""
 

@@ -60,29 +60,47 @@ Public Class frmMember
         Return True
     End Function
 
-    Private Function IsDbLeaveDepartmentSaved(employeeId As String, dept As String) As Boolean
+    Private Function SyncEngineerGroupForMember(employeeId As String, dept As String, section As String) As Boolean
+        Dim engineerSync As New Cls_EngineerGroupSync
+
+        If engineerSync.SyncMember(employeeId, dept, section) = False Then
+            MsgBox("Sync Engineer Group Failed : " & engineerSync.LastErrorMessage)
+            Return False
+        ElseIf engineerSync.LastWarningMessage <> "" Then
+            MsgBox("Sync Engineer Group Warning : " & engineerSync.LastWarningMessage)
+        End If
+
+        Return True
+    End Function
+
+    Private Function IsMemberAssignmentSaved(checkConnection As MySqlConnection, tableName As String, employeeId As String, dept As String, section As String) As Boolean
+        Using command As New MySqlCommand("SELECT empDept, empSection FROM " & tableName & " WHERE empCode = @empCode LIMIT 1", checkConnection)
+            command.Parameters.AddWithValue("@empCode", employeeId)
+            Using reader = command.ExecuteReader()
+                If Not reader.Read() Then Return False
+                Return String.Compare(Trim(Convert.ToString(reader("empDept"))), Trim(dept), True) = 0 AndAlso _
+                    String.Compare(Trim(Convert.ToString(reader("empSection"))), Trim(section), True) = 0
+            End Using
+        End Using
+    End Function
+
+    Private Function IsDbLeaveAssignmentSaved(employeeId As String, dept As String, section As String) As Boolean
         Try
             Dim dbConnector As New Cls_ConnectDbMysql
             Using checkConnection As New MySqlConnection
                 dbConnector.ConnectDBMySql(checkConnection)
                 checkConnection.Open()
 
-                Using command As New MySqlCommand("SELECT empDept FROM member WHERE empCode = @empCode LIMIT 1", checkConnection)
-                    command.Parameters.AddWithValue("@empCode", employeeId)
-                    Dim actualDept As Object = command.ExecuteScalar()
-
-                    If actualDept Is Nothing OrElse actualDept Is DBNull.Value Then Return False
-                    Return String.Compare(Trim(Convert.ToString(actualDept)), Trim(dept), True) = 0
-                End Using
+                Return IsMemberAssignmentSaved(checkConnection, "member", employeeId, dept, section)
             End Using
         Catch ex As Exception
             Return False
         End Try
     End Function
 
-    Private Function UpdatePersonDepartmentAndSyncMfg(employeeId As String, dept As String) As Boolean
-        If Not IsDbLeaveDepartmentSaved(employeeId, dept) Then
-            MsgBox("db_leave.member department was not saved. person and MFG group were not synced.")
+    Private Function UpdatePersonAssignmentAndSyncGroups(employeeId As String, dept As String, section As String, departmentChanged As Boolean) As Boolean
+        If Not IsDbLeaveAssignmentSaved(employeeId, dept, section) Then
+            MsgBox("db_leave.member department/section was not saved. person and department groups were not synced.")
             Return False
         End If
 
@@ -92,22 +110,27 @@ Public Class frmMember
                 dbConnector.ConnectDBMySql_Smart(updateConnection)
                 updateConnection.Open()
 
-                Using command As New MySqlCommand("UPDATE member_fed SET empDept = @empDept WHERE empCode = @empCode", updateConnection)
+                Using command As New MySqlCommand("UPDATE member_fed SET empDept = @empDept, empSection = @empSection WHERE empCode = @empCode", updateConnection)
                     command.Parameters.AddWithValue("@empDept", dept)
+                    command.Parameters.AddWithValue("@empSection", section)
                     command.Parameters.AddWithValue("@empCode", employeeId)
-
-                    If command.ExecuteNonQuery() <> 1 Then
-                        MsgBox("Update person.member_fed failed. MFG group was not synced.")
-                        Return False
-                    End If
+                    command.ExecuteNonQuery()
                 End Using
+
+                If Not IsMemberAssignmentSaved(updateConnection, "member_fed", employeeId, dept, section) Then
+                    MsgBox("Update person.member_fed failed. Department groups were not synced.")
+                    Return False
+                End If
             End Using
         Catch ex As Exception
-            MsgBox("Update person.member_fed failed. MFG group was not synced : " & ex.Message)
+            MsgBox("Update person.member_fed failed. Department groups were not synced : " & ex.Message)
             Return False
         End Try
 
-        Return SyncMfgGroupForMember(employeeId, dept)
+        Dim mfgSucceeded As Boolean = True
+        If departmentChanged Then mfgSucceeded = SyncMfgGroupForMember(employeeId, dept)
+        Dim engineerSucceeded As Boolean = SyncEngineerGroupForMember(employeeId, dept, section)
+        Return mfgSucceeded AndAlso engineerSucceeded
     End Function
     Private Member(,) As String
     Private strq As String = ""
@@ -444,6 +467,15 @@ Public Class frmMember
 
             SetAllConnectionDB_Smart()
             For i = 0 To row
+                Dim savedDept As String = Convert.ToString(Me.GridMembers.Rows(i).Cells(8).Value)
+                Dim savedSection As String = Convert.ToString(Me.GridMembers.Rows(i).Cells(7).Value)
+                Dim departmentChanged As Boolean = savedDept <> Member(i, 8)
+                If departmentChanged OrElse savedSection <> Member(i, 7) Then
+                    If Not UpdatePersonAssignmentAndSyncGroups(Member(i, 0), savedDept, savedSection, departmentChanged) Then
+                        Exit Sub
+                    End If
+                End If
+
                 strq = ""
                 strQWhere = " where mem.empCode ='" & Member(i, 0) & "'"
                 For j = 0 To column
@@ -506,18 +538,14 @@ Public Class frmMember
                             strq = strq & " mem.empPosition ='" & value & "'"
                             ClsUpdateData.Update(Connection, strq & strQWhere)
                         ElseIf j = 7 Then
-                            strq = " update member_fed mem set "
-                            strq = strq & " mem.empSection ='" & value & "'"
-                            ClsUpdateData.Update(Connection, strq & strQWhere)
+                            ' Department and section were saved together before this loop.
 
                             'strq = " update request_leave request set "
                             'strq = strq & " request.empSection ='" & value & "'"
                             'strq = strq & " where request.empCode ='" & Member(i, 0) & "'"
                             'ClsUpdateData.Update(Connection, strq)
                         ElseIf j = 8 Then
-                            If Not UpdatePersonDepartmentAndSyncMfg(Member(i, 0), value) Then
-                                Exit Sub
-                            End If
+                            ' Group sync already read the final department/section pair.
 
                             'strq = " update request_leave request set "
                             'strq = strq & " request.empDept ='" & value & "'"
@@ -760,6 +788,10 @@ Public Class frmMember
             strq = strq & "  empcode_resign ='RESIGNED'"
             strq = strq & "  WHERE empCode ='" & empCode & "'"
             ClsDeleteData.fcnDelete(Connection, strq)
+
+            SyncEngineerGroupForMember(empCode, _
+                Convert.ToString(Me.GridMembers.Rows(0).Cells(8).Value), _
+                Convert.ToString(Me.GridMembers.Rows(0).Cells(7).Value))
 
             SetAllConnectionDB()
 

@@ -125,6 +125,7 @@
   <ItemGroup>
     <Compile Include="Cls_ApproverGroupSync.vb" />
     <Compile Include="Cls_MfgGroupSync.vb" />
+    <Compile Include="Cls_EngineerGroupSync.vb" />
     <Compile Include="Cls_ClickCurrentGridView.vb" />
     <Compile Include="Cls_Delete.vb" />
     <Compile Include="Cls_Excel.vb" />

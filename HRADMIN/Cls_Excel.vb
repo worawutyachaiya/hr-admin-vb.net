@@ -58,6 +58,8 @@ Public Class Cls_Excel
         Dim insertCommands As New List(Of String)()
         Dim insertCommandsSmart As New List(Of String)()
         Dim mfgGroupMembers As New List(Of Dictionary(Of String, Object))()
+        Dim engineerGroupMembers As New List(Of Dictionary(Of String, Object))()
+        Dim engineerSync As New Cls_EngineerGroupSync
         Try
             MyConnection = New System.Data.OleDb.OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + path + ";Extended Properties=Excel 12.0;")
             MyCommand = New System.Data.OleDb.OleDbDataAdapter("select * from [member$]", MyConnection)
@@ -87,6 +89,7 @@ Public Class Cls_Excel
                 empPosition = Trim(record("empPosition"))
                 empSection = Trim(record("empSection"))
                 empDept = Trim(record("empDept"))
+                engineerSync.AddMember(engineerGroupMembers, empCode, empDept, empSection)
                 If UCase(Trim(empDept)) = "MFG" OrElse UCase(Trim(empDept)) = "MFG." Then
                     Dim mfgGroupMember As New Dictionary(Of String, Object)
                     mfgGroupMember("USER_NAME") = empCode
@@ -337,7 +340,7 @@ Public Class Cls_Excel
                 Dim dbLeaveImportSucceeded As Boolean = ClsInsert.ExecuteTransaction(Connection, insertCommands)
 
                 If Not dbLeaveImportSucceeded Then
-                    MsgBox("Import to db_leave failed. person and MFG group were not synced.")
+                    MsgBox("Import to db_leave failed. person and department groups were not synced.")
                     Exit Sub
                 End If
 
@@ -345,17 +348,26 @@ Public Class Cls_Excel
                 Dim personImportSucceeded As Boolean = ClsInsert.ExecuteTransaction(Connection, insertCommandsSmart)
 
                 If Not personImportSucceeded Then
-                    MsgBox("Import to person failed. MFG group was not synced.")
+                    MsgBox("Import to person failed. Department groups were not synced.")
                     Exit Sub
                 End If
 
                 Dim mfgSync As New Cls_MfgGroupSync
-                If mfgSync.SyncMembers(mfgGroupMembers) = False Then
+                Dim mfgSyncSucceeded As Boolean = mfgSync.SyncMembers(mfgGroupMembers)
+                Dim engineerSyncSucceeded As Boolean = engineerSync.SyncMembers(engineerGroupMembers)
+                If mfgSyncSucceeded = False Then
                     MsgBox("Member import succeeded, but MFG Group sync failed : " & mfgSync.LastErrorMessage)
-                    Exit Sub
                 ElseIf mfgSync.LastWarningMessage <> "" Then
                     MsgBox("Sync MFG Group Warning : " & mfgSync.LastWarningMessage)
                 End If
+
+                If engineerSyncSucceeded = False Then
+                    MsgBox("Member import succeeded, but Engineer Group sync failed : " & engineerSync.LastErrorMessage)
+                ElseIf engineerSync.LastWarningMessage <> "" Then
+                    MsgBox("Sync Engineer Group Warning : " & engineerSync.LastWarningMessage)
+                End If
+
+                If Not mfgSyncSucceeded OrElse Not engineerSyncSucceeded Then Exit Sub
 
                 MsgBox("ทำการ Import ข้อมูลเรียบร้อย")
 
