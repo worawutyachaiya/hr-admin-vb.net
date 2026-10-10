@@ -1,0 +1,44 @@
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\bin\Debug\remindHRBL.exe.config
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\bin\Debug\remindHRBL.exe
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\bin\Debug\remindHRBL.pdb
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\bin\Debug\remindHRBL.xml
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\obj\Debug\remindHRBL.Form1.resources
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\obj\Debug\remindHRBL.Resources.resources
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\obj\Debug\remindHRBL.vbproj.GenerateResource.Cache
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\obj\Debug\remindHRBL.exe
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\obj\Debug\remindHRBL.xml
+C:\Users\pipimphorn.ben.FITEL\Documents\Visual Studio 2012\Projects\remindHRBL\remindHRBL\obj\Debug\remindHRBL.pdb
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\bin\Debug\remindHRBL.exe.config
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\obj\Debug\remindHRBL.exe
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\obj\Debug\remindHRBL.xml
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\obj\Debug\remindHRBL.pdb
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\bin\Debug\remindHRBL.exe
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\bin\Debug\remindHRBL.pdb
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\bin\Debug\remindHRBL.xml
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\obj\Debug\remindHRBL.vbprojResolveAssemblyReference.cache
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\obj\Debug\remindHRBL.Form1.resources
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\obj\Debug\remindHRBL.Resources.resources
+D:\assignment\16. Program request\leave\remindHRBL\remindHRBL\obj\Debug\remindHRBL.vbproj.GenerateResource.Cache
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.exe.config
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.exe
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.pdb
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.xml
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.Form1.resources
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.Resources.resources
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.vbproj.GenerateResource.cache
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.vbproj.CopyComplete
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.exe
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.xml
+C:\Users\walapa.mua\Desktop\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.pdb
+D:\Programs\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.exe.config
+D:\Programs\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.exe
+D:\Programs\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.pdb
+D:\Programs\Leave RemindHR BL Service\remindHRBL\bin\Debug\remindHRBL.xml
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.vbprojResolveAssemblyReference.cache
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.Form1.resources
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.Resources.resources
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.vbproj.GenerateResource.Cache
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.vbproj.CoreCompileInputs.cache
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.exe
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.xml
+D:\Programs\Leave RemindHR BL Service\remindHRBL\obj\Debug\remindHRBL.pdb

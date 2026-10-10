@@ -1,0 +1,856 @@
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\bin\Debug\HRADMIN.exe
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\bin\Debug\HRADMIN.pdb
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\bin\Debug\HRADMIN.xml
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\obj\Debug\HRADMIN.Form1.resources
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.Cache
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\obj\Debug\HRADMIN.exe
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\obj\Debug\HRADMIN.xml
+C:\Users\phongphat.wan\AppData\Local\Temporary Projects\HRADMIN\obj\Debug\HRADMIN.pdb
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+E:\Visual Studio Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+E:\Visual Studio Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbprojResolveAssemblyReference.cache
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.Cache
+E:\Visual Studio Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+E:\Visual Studio Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+E:\Visual Studio Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+\\192.168.0.160\hr\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+\\192.168.0.160\hr\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+\\192.168.0.160\hr\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+\\192.168.0.160\hr\HRADMIN\HRADMIN\bin\Debug\microsoft.office.interop.excel.dll
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.Cache
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\microsoft.office.interop.excel.dll
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.Cache
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+\\192.168.0.160\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\192.168.0.160\hr\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+E:\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+E:\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\microsoft.office.interop.excel.dll
+E:\VB Script\HR\HRADMIN\HRADMIN\bin\Debug\MySql.Data.dll
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbprojAssemblyReference.cache
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+E:\VB Script\HR\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\bin\Debug\microsoft.office.interop.excel.dll
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+C:\Users\walapa.mua\Desktop\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+D:\01_Programming\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+D:\01_Programming\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+D:\01_Programming\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+D:\01_Programming\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+D:\01_Programming\HRADMIN\HRADMIN\bin\Debug\stdole.dll
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbprojAssemblyReference.cache
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+D:\01_Programming\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+D:\ProgramUser\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+D:\ProgramUser\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+D:\ProgramUser\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+D:\ProgramUser\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+D:\ProgramUser\HRADMIN\HRADMIN\bin\Debug\stdole.dll
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\bin\Debug\stdole.dll
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+D:\Jiraphat\WFH_211117\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+D:\ProgramUser\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+D:\Develop Program 2022\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+D:\Develop Program 2022\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+D:\Develop Program 2022\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+D:\Develop Program 2022\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+D:\Develop Program 2022\HRADMIN\HRADMIN\bin\Debug\stdole.dll
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+D:\Develop Program 2022\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+D:\Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe.config
+D:\Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.exe
+D:\Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.pdb
+D:\Project\HRADMIN\HRADMIN\bin\Debug\HRADMIN.xml
+D:\Project\HRADMIN\HRADMIN\bin\Debug\stdole.dll
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.exe
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.xml
+D:\Project\HRADMIN\HRADMIN\obj\Debug\HRADMIN.pdb
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\bin\Debug\HRADMIN.exe.config
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\bin\Debug\HRADMIN.exe
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\bin\Debug\HRADMIN.pdb
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\bin\Debug\HRADMIN.xml
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\bin\Debug\stdole.dll
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.vbprojAssemblyReference.cache
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.exe
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.xml
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\obj\Debug\HRADMIN.pdb
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aussada.suk\Desktop\HR_Admin\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.exe
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.pdb
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.Up2Date
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.exe
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.pdb
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.exe.config
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.exe
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.pdb
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.xml
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.Up2Date
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.exe
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.xml
+C:\Users\wissawachit.nam\Desktop\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.pdb
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\bin\Debug\HRADMIN.exe.config
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\bin\Debug\HRADMIN.exe
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\bin\Debug\HRADMIN.pdb
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\bin\Debug\HRADMIN.xml
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\bin\Debug\stdole.dll
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.exe
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.xml
+C:\Users\worawut.yac\Downloads\packages\HRADMIN\obj\Debug\HRADMIN.pdb
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\bin\Debug\HRADMIN.exe.config
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\bin\Debug\HRADMIN.exe
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\bin\Debug\HRADMIN.pdb
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\bin\Debug\HRADMIN.xml
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\bin\Debug\stdole.dll
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.exe
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.xml
+C:\Users\worawut.yac\Desktop\packages\HRADMIN\obj\Debug\HRADMIN.pdb
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.exe
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.pdb
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.exe.config
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.Up2Date
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.exe
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.pdb
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.exe
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.pdb
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\HRADMIN.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.exe
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.pdb
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\HRADMIN\obj\Debug\HRADMIN.vbproj.Up2Date
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\bin\Debug\HRADMIN.exe
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\bin\Debug\HRADMIN.pdb
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\bin\Debug\HRADMIN.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.exe.config
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.Up2Date
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.exe
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.2\SRC\HRADMIN\obj\Debug\HRADMIN.pdb
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.exe
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.pdb
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\HRADMIN.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.Up2Date
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.exe
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.xml
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.pdb
+\\office_SRV\C08_SoftwareSourceCode\HR\HRADMIN\1.0.1\SRC\HRADMIN\obj\Debug\HRADMIN.exe.config
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\bin\Debug\HRADMIN.exe.config
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\bin\Debug\HRADMIN.exe
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\bin\Debug\HRADMIN.pdb
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\bin\Debug\HRADMIN.xml
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\bin\Debug\stdole.dll
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.cache
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.vbproj.CopyComplete
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.exe
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.xml
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.pdb
+C:\Users\worawut.yac\Desktop\HR Admin\winapp\HRADMIN\obj\Debug\HRADMIN.frmLogin.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddGroup.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBirthDay.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberBusPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberDepartment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberFlow.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberGroupWorkDesc.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPCode.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSex.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmExportRemainLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmFlow.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmHolidays.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmLoadingWaiting.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmLogin.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmMain.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmMember.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberSection.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmResetPassword.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetAccumulateAnnaulLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetHRApproveSpecial.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPcode.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetDepartment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetPosition.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetRemainLeave.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSetSection.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmShowAttachment.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmAddMemberStartWork.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.frmSummary.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.Resources.resources
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.GenerateResource.Cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.exe
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.pdb
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\bin\Debug\HRADMIN.exe.config
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\bin\Debug\HRADMIN.exe
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\bin\Debug\HRADMIN.pdb
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\bin\Debug\HRADMIN.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.dll
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\bin\Debug\stdole.dll
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\bin\Debug\Newtonsoft.Json.xml
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.AssemblyReference.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.exe.config
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.CoreCompileInputs.cache
+\\192.168.14.35\C08_SoftwareSourceCode\HR\HRADMIN\Developing\SRC\HRADMIN\obj\Debug\HRADMIN.vbproj.Up2Date

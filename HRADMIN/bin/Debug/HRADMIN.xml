@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HRADMIN
+</name>
+</assembly>
+<members>
+<member name="T:HRADMIN.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:HRADMIN.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:HRADMIN.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:HRADMIN.Cls_ExcelV2.ExportExcel(System.String[0:,0:],System.String,System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="ArrayData">Array of data</param>
+ <param name="SheetName">Sheetname of your file Example "Sheet1"</param>
+ <param name="RangeStart">Fisrt range to start Example "A1"</param>
+ <param name="RangeSpecialValue">RangeSpecialValue is Insert some value in this range</param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
